@@ -7,7 +7,7 @@
 | Lê Vũ Hoàng        | BA11-046 | 
 | Nguyễn Nhật Anh    | BI12-022 | 
 | Hoàng Trung Kiên   |          |
-| Nguyễn Hữu Đức     |          |
+| Nguyễn Hữu Đức     | BA11-025 |
 # ## Features
  - Speaker-Recognition
  - GUI, Algorithm, Method
