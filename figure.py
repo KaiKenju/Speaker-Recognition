@@ -11,3 +11,4 @@ def fig():
     fname = str()
     nCorrect_MFCC = 0
     nCorrect_LPC = 0
+fig()
