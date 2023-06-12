@@ -6,7 +6,7 @@
 | Nguyễn Trường Khải | BA11-054 | 
 | Lê Vũ Hoàng        | BA11-046 | 
 | Nguyễn Nhật Anh    | BI12-022 | 
-| Hoàng Trung Kiên   |          |
+| Hoàng Trung Kiên   | BA11-059 |
 | Nguyễn Hữu Đức     | BA11-025 |
 # ## Features
  - Speaker-Recognition
