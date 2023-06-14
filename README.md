@@ -1,4 +1,4 @@
-## Our team(USTH)
+## Our team(USTH-G8)
 |     Members        |    ID    |  
 |:------------------:|:--------:|
 |  Lê Tuấn Anh       | BA11-005 | 
