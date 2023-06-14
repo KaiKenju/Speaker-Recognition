@@ -25,7 +25,7 @@ Create virtualenv with:
 	. .env/bin/activate
 	pip install -r requirements.txt
 
-To test the algorithm, run test.py. Certain parameters are open to be changed, such as the order of LPC coefficients, the number of Mel filterbanks and the number of centroids in each codebook.
+To test the algorithm, run main.py. Certain parameters are open to be changed, such as the order of LPC coefficients, the number of Mel filterbanks and the number of centroids in each codebook.
 Everything is included in the repository, including .wav files for testing and training, hence cloning it and running main.py should work. 
 
 A PDF has been included that explains the theory and provides links to relevant websites and projects.
